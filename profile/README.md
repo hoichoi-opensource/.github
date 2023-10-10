@@ -37,3 +37,14 @@ All our projects are released under open source licenses. Please check individua
 
 💖 Thank you for being a part of our open source journey!
 
+## 🎉 Hacktoberfest 2023 with Hoichoi Open Source
+
+We're thrilled to announce that Hoichoi Open Source is participating in **Hacktoberfest 2023**! Join us in this global celebration of open source, contribute to our projects, and stand a chance to win some awesome swag!
+
+[![Hacktoberfest 2023 logo](https://hacktoberfest.com/_next/static/media/opengraph.e5fafe07.png)](https://hacktoberfest.com/) 
+
+
+---
+
+
+
