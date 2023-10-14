@@ -1,4 +1,3 @@
-[![An image of @hoichoidev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hoichoidev)](https://holopin.io/@hoichoidev)
 
 # Hoichoi Open Source 🚀
 
@@ -42,6 +41,9 @@ All our projects are released under open source licenses. Please check individua
 We're thrilled to announce that Hoichoi Open Source is participating in **Hacktoberfest 2023**! Join us in this global celebration of open source, contribute to our projects, and stand a chance to win some awesome swag!
 
 [![Hacktoberfest 2023 logo](https://hacktoberfest.com/_next/static/media/opengraph.e5fafe07.png)](https://hacktoberfest.com/) 
+<br>
+[![An image of @hoichoidev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hoichoidev)](https://holopin.io/@hoichoidev)
+
 
 
 ---
